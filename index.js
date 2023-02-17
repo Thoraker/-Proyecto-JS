@@ -11,7 +11,9 @@ window.onload = () => {
         else if (i==2) var chiva = chiva+ arr3[rand];
         else if (i==3) var chiva = chiva+ arr4[rand];
     }
-    let j=Math.floor(Math.random()*10);
-    if (j=0) chiva = "Heee... paso queee... Nop, no tengo nada.";
+    let j= Math.floor(Math.random()*100);
+    if (j==0) {
+        var chiva = "Heee... paso queee... Nop, no tengo nada.";
+    }
     document.querySelector('#excusa').innerHTML = chiva;    
     }
