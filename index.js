@@ -1,7 +1,7 @@
 var arr1 = ['Un perro ', 'Mi Abuelita ', 'Una tortuga ', 'Mi cacatúa ', 'Mi vecino '];
 var arr2 = ['se comió ', 'meó ', 'me rompió ', 'se robó ', 'se llevo '];
 var arr3 = ['mi calcetín ', 'mi móvil ', 'mi billetera ', 'mis llaves ', 'mi trabajo '];
-var arr4 = ['al salir de casa.', 'hace poco.', 'cuando no lo miraba.', 'en la hora de mi almuerzo.', 'cuando estaba rezando.'];
+var arr4 = ['al salir de casa.', 'hace poco.', 'cuando no miraba.', 'en la hora de mi almuerzo.', 'cuando estaba rezando.'];
 window.onload = () => {
     var chiva= " ";
     for (let i=0; i <=3; i++) {
