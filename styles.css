@@ -1,5 +1,7 @@
 body {
     font-family: Dosis;
+    font-size: 35px;
+    font-style: italic;
 }
 div {
     text-align: center;
